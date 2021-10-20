@@ -1,0 +1,245 @@
+
+.aboutustab
+{
+	position: absolute;
+	width: 146px;
+	height: 64px;
+	left: 648px;
+	top: 78px;
+
+	font-family: Pathway Gothic One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	line-height: 55px;
+	text-transform: uppercase;
+
+	color: #000000;
+}
+
+
+.fashionhangers
+{
+	position: absolute;
+	width: 762px;
+	height: 493px;
+	left: -173px;
+	top: 223px;
+	background: url(apparel-clothing-fashion-hangers-thumbnail.jpg);
+}
+
+
+.aboutustext
+{
+	position: absolute;
+	width: 687px;
+	height: 487px;
+	left: 641px;
+	top: 229px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	line-height: 25px;
+	color: #000000;
+}
+
+
+.aboutuslegend
+{
+	position: absolute;
+	width: 99px;
+	height: 31px;
+	left: 139px;
+	top: 0px;
+	font-family: Palanquin Dark;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 43px;
+	color: #000000;
+}
+
+
+.contactustab
+{
+	position: absolute;
+	width: 116px;
+	height: 31px;
+	left: 261px;
+	top: 0px;
+}
+
+
+.shopalltab
+{
+	position: absolute;
+	width: 98px;
+	height: 31px;
+	left: 946px;
+	top: 0px;
+	font-family: Palanquin Dark;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 43px;
+	color: #000000;
+}
+
+
+.menstab
+{
+	position: absolute;
+	width: 61px;
+	height: 31px;
+	left: 410px;
+	top: 0px;
+	font-family: Palanquin Dark;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 43px;
+	color: #000000;
+}
+
+
+.womenstab
+{
+	position: absolute;
+	width: 103px;
+	height: 31px;
+	left: 514px;
+	top: 0px;
+	font-family: Palanquin Dark;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 43px;
+	color: #000000;
+}
+
+
+.trendingarrivalstab
+{
+	position: absolute;
+	width: 260px;
+	height: 31px;
+	left: 648px;
+	top: 0px;
+	font-family: Palanquin Dark;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 43px;
+	color: #000000;
+}
+
+
+.hometab
+{
+	position: absolute;
+	width: 68px;
+	height: 37px;
+	left: 48px;
+	top: 0px;
+	font-family: Palanquin Dark;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 43px;
+	color: #000000;
+}
+
+
+.orangebackgroundimg
+{
+	position: absolute;
+	width: 1440px;
+	height: 209px;
+	left: 0px;
+	top: -6px;
+	background: url(image.png);
+	mix-blend-mode: hard-light;
+}
+
+.facebookicon
+{
+	position: absolute;
+	width: 97px;
+	height: 55px;
+	left: 1222px;
+	top: 949px;
+	background: url(image.png);
+}
+
+.instaicon
+{
+	position: absolute;
+	width: 67px;
+	height: 59px;
+	left: 1327px;
+	top: 949px;
+	background: url(image.png);
+}
+
+.usericon
+{
+	position: relative;
+	width: 42px;
+	height: 40px;
+	mix-blend-mode: color-burn;
+}
+
+.messageicon
+{
+	position: absolute;
+	width: 43px;
+	height: 40px;
+	background: url(me.png);
+	mix-blend-mode: color-burn;
+}
+
+.carticon
+{
+	position: absolute;
+	width: 50px;
+	height: 42px;
+	background: url(image.png);
+}
+
+.footerborder
+{
+	position: absolute;
+	width: 1440px;
+	height: 0px;
+	border: 1px solid #000000;
+	transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.socmedannouncement
+{
+	position: absolute;
+	width: 378px;
+	height: 38px;
+	font-family: Peddana;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 39px;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+
+.footerlocationtext
+{
+	position: absolute;
+	width: 220px;
+	height: 52px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 14px;
+	color: #000000;
+}
